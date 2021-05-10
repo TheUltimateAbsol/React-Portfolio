@@ -1,94 +1,96 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "Brandon Ellis",
+    "role": "Game Programmer",
+    "linkedinId":"brandon-ellis-7baa691a8",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I love to program mobile games in the Godot Game engine and do stupidly complicated server infrastructure stuff on the cloud.",
     "socialLinks":[
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"github",
-          "url":"http://github.com/rbhatia46",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
-      ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
-    "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "name":"facebook",
+        "url":"https://www.facebook.com/brandon.alx.ellis",
+        "className":"fa fa-facebook"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "name":"twitter",
+        "url":"https://twitter.com/BrandonALXEllis",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brandon-ellis-7baa691a8/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/BrandonALXEllis",
+        "className":"fa fa-github"
+      }
+    ],
+    "aboutme":"I am a freelance game developer recently graduated and looking for opportunites for new projects",
+    "address":"10410A Baltimore National Pike, Ellicott City, MD, 21042",
+    "website":"thebellis618@gmail.com",
+    "education":[
+      {
+        "UniversityName":"University of Maryland, Baltimore County",
+        "specialization":"Computer Science, Game Development Track",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2021",
+        "Achievements":"Summa cum Laude, 4.0 GPA. Former Education Master of the UMBC Game Developers Club"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Applied Insight",
+        "specialization":"Cloud Automation DevOps Engineer",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2020-Present",
+        "Achievements":"Transitioned company infrastructure into Terraform deployment architecture. Integrating open source projects to provide DevSecOps to company computers on Kubernetes clusters"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"DonorSearch",
+        "specialization":"Web UI Intern",
+        "MonthOfLeaving":"Feb",
+        "YearOfLeaving":"2020",
+        "Achievements":"Very quickly fixed broken web-pages and did day-to-day maintenence on the front-end of the Company website"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"This is what skills I'm",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Godot"
       },
       {
-        "skillname":"CSS"
+        "skillname":"AWS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Python"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Yonko Batle",
+        "description":"An online multiplayer mobile gatcha game that takes a twist on Connect 4. Served as UI and Effects designer. Designed the shop and Gatcha mechanics",
+        "imgurl":"images/portfolio/yonko-battle.png",
+        "videoid": "hyFMgBVXJBE"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Bit Rush",
+        "description":"A mobile game crossup between a Visual Novel and a complex Platformer like Kirby Mass Attack. Created for the UMBC Game Developers Club in 2019-2020, served as Project Lead",
+        "imgurl":"images/portfolio/bit-rush.png",
+        "videoid": "VgAvfiVnrU8"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"I Got Invited To A Demon Space Lord Birthday Party, But It's A Good Thing I Brought My Multi Combo Death Blaster",
+        "description":"A bullet-hell like platformer based on keeping a constant stream of bullets. Created for the IGDA eJam in 2020",  
+        "imgurl":"images/portfolio/bdparty.png",
+        "videoid": "Hinv9F6aBso"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Tiny Tacticians",
+        "description":"An online mobile multiplayer tactical strategy game with a variety of characters and checkers-like mechanics. Served as Lead Programmer",
+        "imgurl":"images/portfolio/tiny-tacticians.png",
+        "videoid": "-xsRzvkUjVA"
       }
     ],
     "testimonials":[
